@@ -16,3 +16,4 @@ This is shopping site the user can purchase various products available in the st
 
 •	Filter items.
 
+![Capture](https://user-images.githubusercontent.com/110295505/213995024-ff5d227d-e69b-4605-810f-16734cab2448.PNG)
